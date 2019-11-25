@@ -12,3 +12,125 @@
   line-height: 75px;
   font-size: 30px;
 }
+
+.flex-container2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+
+  background-color: rgb(255, 30, 124);
+}
+
+.flex-container2 > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.flex-container3 {
+  display: flex;
+  flex-direction: row-reverse;
+    margin-top: 20px;
+
+  background-color: rgb(8, 148, 55);
+}
+
+.flex-container3 > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.flex-container5 {
+  display: flex;
+  flex-wrap: wrap;
+      margin-top: 20px;
+
+  background-color: rgb(255, 30, 68);
+}
+
+.flex-container5 > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.flex-container6 {
+  display: flex;
+  height: 200px;
+        margin-top: 20px;
+
+  align-items: baseline;
+  background-color: rgb(218, 204, 19);
+}
+
+.flex-container6 > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.flex-container7 {
+  display: flex;
+  justify-content: center;
+          margin-top: 20px;
+
+  align-items: center;
+  height: 300px;
+  background-color: DodgerBlue;
+}
+
+.flex-container7 >div {
+  background-color: #f1f1f1;
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+
+.flex-container8 {
+  display: flex;
+  align-items: stretch;
+            margin-top: 20px;
+
+  background-color: #8b0df1;
+}
+
+.flex-container8 >div {
+  background-color: rgb(6, 241, 6);
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.flex-container9 {
+  display: flex;
+  height: 200px;
+ margin-top: 20px;
+
+  background-color: #440404;
+}
+
+.flex-container9 > div {
+  background-color: rgb(154, 156, 18);
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}

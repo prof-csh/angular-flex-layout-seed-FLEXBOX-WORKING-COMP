@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls:  [ './app.component.css' ],
 })
 export class AppComponent  {
-  name = 'Anyone can you help with Angular 4 Drag and drop';
+  name = 'Anyone can create responsive web pages with Flexbox and some grit!!!';
 
 
 }
